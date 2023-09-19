@@ -1,0 +1,8 @@
+{
+  "user": {
+    "username": "john_doe",
+    "email": "john.doe@example.com"
+  },
+  "phoneNumber": "+1234567890",
+  "otp": "123456"
+}
